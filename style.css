@@ -1,0 +1,57 @@
+h2{	font-family: arial;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
+	#school{
+text-align: left;
+font-family: fantasy;
+	} 
+p{
+	font-family: rubius;
+	font-size: 18px;
+	color: black;
+	letter-spacing: 1px;
+}
+h1{
+	font-family: verdana;
+	font-size: 30px;
+	color: black;
+	letter-spacing: 2px;
+	text-align: center;
+}
+ul{
+	font-family: verdana;
+	font-size: 18px;
+	color: black;
+	letter-spacing: 3px
+}
+pre{
+	font-family: georgia;
+	font-size: 30px;
+	color: black;
+	letter-spacing: 2px
+}
+#paragraph {
+	margin-left: 20px;
+}
+#paragraph a {
+	text-decoration: none;
+	font-size: 30px;
+}
+#paragraph a:hover{
+	color: black;
+}
+#mark {
+	margin-left: 20px;
+}
+#mark a{
+	text-decoration: none;
+	font-size: 30px;
+}
+#mark a:hover{
+	color: black;
+}
+hr{
+	color: black;
+}
